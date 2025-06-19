@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geologica:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Candal:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Darker Grotesque:wght@600&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Carme:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Droid Sans:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela Gothic One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dhyana:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="wireframe-1">
+    		<div class="wireframe-1-child">
+    		</div>
+    		<div class="red-river-imveis-container">
+      			<span>RED RIVER </span>
+      			<span class="imveis">IMÓVEIS</span>
+    		</div>
+    		<div class="wireframe-1-item">
+    		</div>
+    		<div class="wireframe-1-inner">
+    		</div>
+    		<div class="home">HOME</div>
+    		<div class="alugel">ALUGEL</div>
+    		<div class="venda">VENDA</div>
+    		<div class="servios">SERVIÇOS</div>
+    		<div class="contato">CONTATO</div>
+    		<div class="sobre-ns">SOBRE NÓS</div>
+    		<div class="suporte">SUPORTE</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<img class="r-1-icon" alt="casa" src="https://github.com/Camilasimoes1/im-vel/blob/main/aff54dd172a22a1cd460a6ee9cf48cab3a7a1369.png?raw=true">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="vamos-encontrar-um">Vamos encontrar um lugar perfeito para você</div>
+    		<div class="cada-projeto-de">Cada projeto de propriedade tem seu próprio significado e estamos prontos para ajudá-lo a obter a melhor opção.</div>
+    		<div class="wireframe-1-child1">
+    		</div>
+    		<div class="venda1">VENDA</div>
+    		<div class="compra">COMPRA</div>
+    		<div class="alugel1">ALUGEL</div>
+    		<div class="wireframe-1-child2">
+    		</div>
+    		<div class="wireframe-1-child3">
+    		</div>
+    		<div class="wireframe-1-child4">
+    		</div>
+    		<div class="os-melhores-imveis">Os melhores imóveis</div>
+    		<div class="wireframe-1-child5">
+    		</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="wireframe-1-child6">
+    		</div>
+    		<div class="wireframe-1-child7">
+    		</div>
+    		<div class="wireframe-1-child8">
+    		</div>
+    		<img class="oip-1-icon" alt="foto1" src="https://github.com/Camilasimoes1/im-vel/blob/main/7fe80c6f43dce90411a20855a0a3a97e0853fc9b.jpg?raw=true">
+    		
+    		<img class="as-melhores-pousadas-em-salvad-icon" alt="casa2" src="https://github.com/Camilasimoes1/im-vel/blob/main/97ee4015289e1ef847e334ba0261157a3618f4df.jpg?raw=true">
+    		
+    		<img class="oip-2-icon" alt="casa3" src="https://github.com/Camilasimoes1/im-vel/blob/main/7918af5d0742e0489ce6574adf4312de4d1dfc33.jpg?raw=true">
+    		
+    		<div class="wireframe-1-child9">
+    		</div>
+    		<div class="login">LOGIN</div>
+    		<div class="cadastrar">CADASTRAR</div>
+    		<div class="wireframe-1-child10">
+    		</div>
+    		<div class="wireframe-1-child11">
+    		</div>
+    		
+    		<img class="imobiliaria-em-florianopolis-s-icon" alt="ibagy" src="https://github.com/Camilasimoes1/im-vel/blob/main/32d8f5e7f8f5a7df0f5aabbddc696993087c507c.png?raw=true">
+    		
+    		<img class="logo-topo2-removebg-preview-1-icon" alt="stella" src="https://github.com/Camilasimoes1/im-vel/blob/main/dadff527c37c08f13886f66729ed59fafa7e0e8a.png?raw=true">
+    		
+    		<img class="oip-4-removebg-preview-1-icon" alt="balzano" src="https://github.com/Camilasimoes1/im-vel/blob/main/0af1615225adcedfd56e1f7dc8f6f55f910267e5.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-26-142-icon" alt="" src="https://github.com/Camilasimoes1/im-vel/blob/main/f5e361d4a4dedee7a6fb3fc4dc0a123b4b404d48.png?raw=true">
+    		
+    		<div class="wireframe-1-child12">
+    		</div>
+    		<div class="cadastre-seu-imvel">Cadastre seu imóvel</div>
+    		<div class="wireframe-1-child13">
+    		</div>
+    		<div class="wireframe-1-child14">
+    		</div>
+    		<div class="wireframe-1-child15">
+    		</div>
+    		<div class="wireframe-1-child16">
+    		</div>
+    		<div class="wireframe-1-child17">
+    		</div>
+    		<div class="wireframe-1-child18">
+    		</div>
+    		<div class="wireframe-1-child19">
+    		</div>
+    		<div class="wireframe-1-child20">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="cpf">CPF</div>
+    		<div class="tipo-de-imvel">Tipo de imóvel</div>
+    		<div class="cep">CEP</div>
+    		<div class="estado">Estado</div>
+    		<div class="email">Email</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="enviar">ENVIAR</div>
+  	</div>
+  	
+  	<style>
+		.wireframe-1-child {
+  	position: absolute;
+  	top: 195px;
+  	left: 776px;
+  	box-shadow: 0px 4px 22.3px 2px rgba(0, 0, 0, 0.25);
+  	border-radius: 50%;
+  	background-color: #fff;
+  	width: 645px;
+  	height: 634px;
+}
+.imveis {
+  	color: #000;
+}
+.red-river-imveis-container {
+  	position: absolute;
+  	top: 52px;
+  	left: 32px;
+  	font-size: 32px;
+  	font-family: Geologica;
+  	color: #ff0000;
+}
+.wireframe-1-item {
+  	position: absolute;
+  	top: 60px;
+  	left: 1245px;
+  	border-radius: 9px;
+  	background-color: #0148ff;
+  	width: 149px;
+  	height: 47px;
+}
+.wireframe-1-inner {
+  	position: absolute;
+  	top: 60px;
+  	left: 1087px;
+  	border-radius: 9px;
+  	background-color: #fff;
+  	border: 1px solid #0148ff;
+  	box-sizing: border-box;
+  	width: 149px;
+  	height: 47px;
+}
+.home {
+  	position: absolute;
+  	top: 73px;
+  	left: 429px;
+  	font-size: 16px;
+}
+.alugel {
+  	position: absolute;
+  	top: 73px;
+  	left: 495px;
+  	font-size: 16px;
+}
+.venda {
+  	position: absolute;
+  	top: 73px;
+  	left: 574px;
+  	font-size: 16px;
+}
+.servios {
+  	position: absolute;
+  	top: 73px;
+  	left: 645px;
+  	font-size: 16px;
+}
+.contato {
+  	position: absolute;
+  	top: 73px;
+  	left: 740px;
+  	font-size: 16px;
+}
+.sobre-ns {
+  	position: absolute;
+  	top: 73px;
+  	left: 831px;
+  	font-size: 16px;
+}
+.suporte {
+  	position: absolute;
+  	top: 73px;
+  	left: 939px;
+  	font-size: 16px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 229px;
+  	left: 804px;
+  	border-radius: 50%;
+  	background-color: #bacbf7;
+  	width: 590px;
+  	height: 566px;
+}
+.r-1-icon {
+  	position: absolute;
+  	top: 291px;
+  	left: 811px;
+  	width: 577px;
+  	height: 442px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 559px;
+  	left: 97px;
+  	box-shadow: 0px 4px 7.7px rgba(0, 0, 0, 0.25);
+  	background-color: #eeeded;
+  	width: 586px;
+  	height: 236px;
+}
+.vamos-encontrar-um {
+  	position: absolute;
+  	top: 260px;
+  	left: 109px;
+  	font-size: 48px;
+  	font-family: Candal;
+  	display: inline-block;
+  	width: 602px;
+}
+.cada-projeto-de {
+  	position: absolute;
+  	top: 453px;
+  	left: 109px;
+  	font-weight: 600;
+  	font-family: 'Darker Grotesque';
+  	display: inline-block;
+  	width: 536px;
+  	height: 64px;
+}
+.wireframe-1-child1 {
+  	position: absolute;
+  	top: 559px;
+  	left: 95px;
+  	background-color: #bacbf7;
+  	width: 191px;
+  	height: 76px;
+}
+.venda1 {
+  	position: absolute;
+  	top: 585px;
+  	left: 156px;
+  	font-size: 20px;
+  	font-family: Carme;
+}
+.compra {
+  	position: absolute;
+  	top: 585px;
+  	left: 347px;
+  	font-size: 20px;
+  	font-family: Carme;
+}
+.alugel1 {
+  	position: absolute;
+  	top: 585px;
+  	left: 556px;
+  	font-size: 20px;
+  	font-family: Carme;
+}
+.wireframe-1-child2 {
+  	position: absolute;
+  	top: 634px;
+  	left: 97px;
+  	background-color: #fff;
+  	width: 586px;
+  	height: 161px;
+}
+.wireframe-1-child3 {
+  	position: absolute;
+  	top: 666px;
+  	left: 134px;
+  	background-color: #eeeded;
+  	width: 513px;
+  	height: 67px;
+}
+.wireframe-1-child4 {
+  	position: absolute;
+  	top: 666px;
+  	left: 548px;
+  	background-color: #bacbf7;
+  	width: 99px;
+  	height: 67px;
+}
+.os-melhores-imveis {
+  	position: absolute;
+  	top: 1026px;
+  	left: 127px;
+  	font-size: 40px;
+  	font-family: Candal;
+}
+.wireframe-1-child5 {
+  	position: absolute;
+  	top: 1358px;
+  	left: 0px;
+  	background-color: #001855;
+  	width: 1440px;
+  	height: 730px;
+}
+.line-div {
+  	position: absolute;
+  	top: 1059px;
+  	left: 46px;
+  	border-top: 8px solid #000;
+  	box-sizing: border-box;
+  	width: 70px;
+  	height: 8px;
+}
+.wireframe-1-child6 {
+  	position: absolute;
+  	top: 1172px;
+  	left: 517px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-1-child7 {
+  	position: absolute;
+  	top: 1172px;
+  	left: 70px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-1-child8 {
+  	position: absolute;
+  	top: 1172px;
+  	left: 964px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.oip-1-icon {
+  	position: absolute;
+  	top: 1172px;
+  	left: 70px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.as-melhores-pousadas-em-salvad-icon {
+  	position: absolute;
+  	top: 1172px;
+  	left: 517px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.oip-2-icon {
+  	position: absolute;
+  	top: 1172px;
+  	left: 964px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.wireframe-1-child9 {
+  	position: absolute;
+  	top: 1774.5px;
+  	left: 146.5px;
+  	border-top: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 1147px;
+  	height: 1px;
+}
+.login {
+  	position: absolute;
+  	top: 72px;
+  	left: 1290px;
+  	font-size: 20px;
+  	font-family: 'Droid Sans';
+  	color: #fff;
+}
+.cadastrar {
+  	position: absolute;
+  	top: 73px;
+  	left: 1107px;
+  	font-size: 20px;
+  	font-family: 'Droid Sans';
+  	color: #0148ff;
+  	display: inline-block;
+  	width: 109px;
+  	height: 17px;
+}
+.wireframe-1-child10 {
+  	position: absolute;
+  	top: 673.5px;
+  	left: 346.5px;
+  	border-right: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 52.7px;
+}
+.wireframe-1-child11 {
+  	position: absolute;
+  	top: 684px;
+  	left: 575px;
+  	border-radius: 50%;
+  	background-color: #bacbf7;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 24px;
+  	height: 23px;
+}
+.line-icon {
+  	position: absolute;
+  	top: 704px;
+  	left: 595px;
+  	width: 12px;
+  	height: 7px;
+  	object-fit: contain;
+}
+.imobiliaria-em-florianopolis-s-icon {
+  	position: absolute;
+  	top: 1879px;
+  	left: 121px;
+  	width: 244px;
+  	height: 95px;
+  	object-fit: cover;
+}
+.logo-topo2-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 1869px;
+  	left: 411px;
+  	width: 290px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.oip-4-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 1832px;
+  	left: 771px;
+  	width: 315px;
+  	height: 157px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-26-142-icon {
+  	position: absolute;
+  	top: 1839px;
+  	left: 1156px;
+  	width: 162px;
+  	height: 166px;
+  	object-fit: cover;
+}
+.wireframe-1-child12 {
+  	position: absolute;
+  	top: 2321px;
+  	left: 283px;
+  	box-shadow: 0px 4px 12.3px rgba(0, 0, 0, 0.25);
+  	border-radius: 9px;
+  	background-color: #fff;
+  	width: 874px;
+  	height: 1007px;
+}
+.cadastre-seu-imvel {
+  	position: absolute;
+  	top: 2219px;
+  	left: 431px;
+  	font-size: 48px;
+  	font-family: 'Dela Gothic One';
+}
+.wireframe-1-child13 {
+  	position: absolute;
+  	top: 2388px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child14 {
+  	position: absolute;
+  	top: 2506px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child15 {
+  	position: absolute;
+  	top: 2624px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child16 {
+  	position: absolute;
+  	top: 2742px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child17 {
+  	position: absolute;
+  	top: 2850px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child18 {
+  	position: absolute;
+  	top: 2958px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child19 {
+  	position: absolute;
+  	top: 3066px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-1-child20 {
+  	position: absolute;
+  	top: 3194px;
+  	left: 591px;
+  	border-radius: 26px;
+  	background-color: #0148ff;
+  	width: 259px;
+  	height: 86px;
+}
+.nome {
+  	position: absolute;
+  	top: 2411px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.cpf {
+  	position: absolute;
+  	top: 2529px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.tipo-de-imvel {
+  	position: absolute;
+  	top: 2648px;
+  	left: 431px;
+  	font-family: Dhyana;
+  	display: inline-block;
+  	width: 176px;
+  	height: 28px;
+}
+.cep {
+  	position: absolute;
+  	top: 2765px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.estado {
+  	position: absolute;
+  	top: 2873px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.email {
+  	position: absolute;
+  	top: 2981px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.telefone {
+  	position: absolute;
+  	top: 3089px;
+  	left: 431px;
+  	font-family: Dhyana;
+}
+.enviar {
+  	position: absolute;
+  	top: 3213px;
+  	left: 650px;
+  	font-size: 36px;
+  	font-family: Candal;
+  	color: #fff;
+}
+.wireframe-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3584px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: 'Gothic A1';
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
